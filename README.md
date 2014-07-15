@@ -18,15 +18,15 @@ Example when running in QtSpim:
   - - -
 
   user X please select the next square (1-9) 1
-  Invalid move! The Sqaure is already occupied; Please select again (1-9) 4
+  Invalid move! The Sqaure is already occupied; Please select again (1-9) 8
   X O X
-  X O -
-  O - -
+  O O -
+  - X -
   
-  user X please select the next square (1-9) 8
+  user X please select the next square (1-9) 6
   X O X
-  X O O
-  O X -
+  O O X
+  - X O
   
   Game Draw!
 </pre>
