@@ -1,4 +1,3 @@
-# Names: Freddy Yang
 # Dates: 5/22/2013
 
 
@@ -991,4 +990,5 @@ whichState:  #contains all state; mainly determine whether WIN or CONTINUE (DRAW
 		beq $t7,1,main		# if $t7 is 1, go back to main 						# and re-play the game
 		li $v0,10			# end the program
 		syscall
+
 	
